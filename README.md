@@ -46,4 +46,4 @@ $dados->runCep(); // retorna os dados
 ```
 ## AVISO
 
-Caso encontre alguma correção, crie um branch e faça um pull request para ser analizado. ou envie um email para diego@wsitebrasil.com.br
+Caso encontre alguma correção, crie um branch e faça um pull request para ser analizado. ou envie um email para diegosantosws@gmail.com
