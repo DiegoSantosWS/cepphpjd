@@ -8,7 +8,8 @@ Essa é uma pais para consultar endereços através de um cep
 
 CLONE O REPOSITORIO PARA SUA MAQUINA
 ``` bash
-$ git clone https://wsitebrasil@bitbucket.org/wsitebrasil/wsitecep.git
+$ git clone https://github.com/DiegoSantosWS/cepphpjd.git
+
 ```
 ## ACESSANDO
 
